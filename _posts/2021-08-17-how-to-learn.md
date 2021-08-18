@@ -21,7 +21,7 @@ Začnime [playlistami](https://www.youtube.com/c/InformatikasMi%C5%A1om/playlist
 ## Začnime inštaláciou
 Bez ohľadu na to, ktorý z mojích kurzov plánujete prechádzať je vždy potrebné mať nainštalovaný Python. Moje historicky prvé video na mojom kanáli detailne popisuje tento postup pre operačný systém Windows.
 
-![](//https://youtu.be/hjYF_WRrreQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hjYF_WRrreQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Kurz základov Pythonu
 [Tento kurz](https://www.youtube.com/playlist?list=PLNAMH_0HgWT9kaV-i51FxrsPO9r1YZqxk) som robil s cieľom naučiť programovať každého od úplných základov. Kurz nepredpokladá, že budete mať nejaké znalosti programovania. Pravdu povediac keď som vytváral tento kurz myslel som na to že sa z neho raz bude učiť môj syn alebo dcéra. V kurze som sa zameral na úplné základy programovania v jazyku Python.
@@ -34,7 +34,7 @@ Na mojom kanáli v playlistoch nájdete tiež [Občasný kurz programovania hier
 
 Aby som sa vyjadril presnešie. Vrelo odporúčam vyskúšať si lekciu 1 z kurzu programovania hier, hneď potom čo dokončíte úvodný kurz programovania v Pythone (ktorý som spomenul vyššie). Táto lekcia preverí Vaše základy. Uvidíte tam ako šikovne viete využiť koncepty ako `slovníky` `polia` a `moduly` pri práci na niečom komplexnejšom. Odporúčam pozrieť si video a spolu so mnou túto hru naprogramovať.
 
-![](//https://youtu.be/XbcvFt75XE0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XbcvFt75XE0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## OOP
 Ok dajme tomu, že ste boli natoľko trpezliví a motivovaní prejsť si môj základný kurz programovania. Istotne sa teraz cítite ako pokročilý Python programátor. Skvelá práca!!! Ako druhý kurz vrelo odporúčam prejsť si playlist [Objektovo orientovaného programovania](https://www.youtube.com/playlist?list=PLNAMH_0HgWT_qPUxA1750M5om7iodrCtK). **Tento kurz nebude ľahký!!!**
